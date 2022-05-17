@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620986864 source:d:\cp\uva\11942-lumberjack_sequencing\11942\main.cpp
+	<iostream>
+	<fstream>
+

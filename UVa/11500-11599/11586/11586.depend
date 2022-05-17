@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621245381 source:d:\cp\uva\11586-train_tracks\11586\main.cpp
+	<iostream>
+	<fstream>
+

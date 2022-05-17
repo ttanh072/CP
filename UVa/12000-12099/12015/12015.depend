@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620987772 source:d:\cp\uva\12015-google_is_feeling_lucky\12015\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1621319655 source:d:\cp\uva\100-199\162-beggar_my_neighbour\162\main.cpp
+	<iostream>
+	<cstdio>
+	<fstream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620988991 source:d:\cp\uva\12157-tariff_plan\12157\main.cpp
+	<iostream>
+	<fstream>
+

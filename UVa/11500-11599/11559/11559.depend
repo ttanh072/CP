@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620967114 source:d:\cp\uva\11559-event_planning\11559\main.cpp
+	<iostream>
+	<fstream>
+

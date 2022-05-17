@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620965144 source:d:\cp\uva\11332-summing_digits\11332\main.cpp
+	<iostream>
+	<fstream>
+

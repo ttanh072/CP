@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620990143 source:d:\cp\uva\12468-zapping\12468\main.cpp
+	<iostream>
+	<fstream>
+

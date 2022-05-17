@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620991503 source:d:\cp\uva\12503-robot_instructions\12503\main.cpp
+	<iostream>
+	<fstream>
+

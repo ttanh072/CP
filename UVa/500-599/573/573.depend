@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621224174 source:d:\cp\uva\573-the_snail\573\main.cpp
+	<iostream>
+	<fstream>
+

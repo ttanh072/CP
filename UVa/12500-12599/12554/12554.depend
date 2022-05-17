@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620992812 source:d:\cp\uva\12554-a_special_happy_birthday_song\12554\main.cpp
+	<iostream>
+	<fstream>
+

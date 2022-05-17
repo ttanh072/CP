@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621252676 source:d:\cp\uva\11683-laser_sculpture\11683\main.cpp
+	<iostream>
+	<fstream>
+

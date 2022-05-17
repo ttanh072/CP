@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620973034 source:d:\cp\uva\11679-sub-prime\11679\main.cpp
+	<iostream>
+	<fstream>
+

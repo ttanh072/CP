@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621250329 source:d:\cp\uva\11661-burger_time\11661\main.cpp
+	<iostream>
+	<fstream>
+

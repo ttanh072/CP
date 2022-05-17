@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620896252 source:d:\cp\uva\12250 - language detection\12250\main.cpp
+	<iostream>
+	<fstream>
+
